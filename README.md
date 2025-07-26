@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Employee-Salary-Prediction
-Predict Employee Salary using ML Model.
-=======
 # Employee Salary Prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeetMajumdar2003/Employee-Salary-Prediction/blob/main/Employee_Salary_Prediction.ipynb)
 
 This project predicts whether an employee earns more than \$50K per year using demographic and work-related features. It demonstrates a complete machine learning workflow, from data exploration to deployment via a Streamlit web app.
@@ -123,4 +119,3 @@ This project is licensed under the MIT License.
 ---
 
 > *Project completed under IBM internship program taught by Edunet Foundation through AICTE.*
->>>>>>> 6d802e2 (Initial commit: Add Employee Salary Prediction project files)
