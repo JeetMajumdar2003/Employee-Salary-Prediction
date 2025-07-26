@@ -1,0 +1,16 @@
+age,workclass,education,occupation,hours-per-week,educational-num
+25,Private,11th,Machine-op-inspct,40,7
+40,Private,Doctorate,Prof-specialty,45,16
+65,Private,Masters,Prof-specialty,50,14
+55,Private,Bachelors,Exec-managerial,45,13
+48,Private,HS-grad,Machine-op-inspct,48,9
+38,Private,HS-grad,Farming-fishing,50,9
+28,Local-gov,Assoc-acdm,Protective-serv,40,12
+44,Private,Some-college,Machine-op-inspct,40,10
+34,Private,10th,Other-service,30,6
+63,Self-emp-not-inc,Prof-school,Prof-specialty,32,15
+24,Private,Some-college,Other-service,40,10
+55,Private,7th-8th,Craft-repair,10,4
+65,Private,HS-grad,Machine-op-inspct,40,9
+36,Federal-gov,Bachelors,Adm-clerical,40,13
+43,Private,Masters,Exec-managerial,50,14
